@@ -1,4 +1,5 @@
 # Mohamed Kamate 
+I am from chicago
 
 - 👋 Hi, I’m @mo8k
 - 👀 I’m interested in ...
