@@ -16,4 +16,4 @@ I am studing Cybersecurity and Information Technology
 
 
 
-My first computing device a ![Ps vita](media/sony-ps-vita-console-wi-fi-black-(product).webp) (2011).
+My first computing device a PS vita
