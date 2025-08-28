@@ -12,3 +12,6 @@ Born and raised in chicago grew up in the Grand Crossing Neirborhood.
 I am studing Cybersecurity and Information Technology
 
 
+## First Computing Device
+
+My first computing device a ![Ps vita](media/sony-ps-vita-console-wi-fi-black-(product).webp) (2011).
