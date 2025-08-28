@@ -134,6 +134,8 @@ Version Control is **vital** to modern software development and we will be using
 
 Take a screenshot of the output of the command: ```git --version```
 
+![*Git version output*](./images/Git-v.png "Output of Git version")
+
 #### Configure Git Client
 
 You will need to configure Git if you already haven't done so.  From a shell run these two commands:
