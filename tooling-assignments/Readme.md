@@ -49,6 +49,8 @@ If you have a Mac - install `brew` and provide a screenshot of the output of the
 
 For Windows, place a screenshot of the version command output for: `winget --version`.
 
+!["Winget version"](./images/winget.png "Winget version command")
+
 ### Linux
 
 Use the distros built in Package Manger where needed.
