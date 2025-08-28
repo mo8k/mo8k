@@ -1,7 +1,8 @@
-# Mohamed Kamate -mazzi mo
-I am from chicago
+# Mohamed Kamate
 
-## where are you from ?
+![Me ](media/IMG_5277.png "Me")
 
-Born and raised in chicago from the southside Grand Crossing Neiborhood.
-![alt text](media/IMG_5277.png "Logo Title Text 1")
+![image my my favorite thing](c:\Users\moham\Pictures\meee\image.jpg "Me")
+
+
+
