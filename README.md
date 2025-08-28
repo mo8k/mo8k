@@ -21,3 +21,6 @@ My first computing device a PS vita
 
 ## Something Interesting About You
 
+A fun fact about me is that I played both basketball and fooball and I am 6'5.
+
+I also like to play fps video games and my favorite game is warzone 
