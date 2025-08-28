@@ -107,6 +107,8 @@ On Windows, Microsoft provides a [Windows Terminal](https://www.microsoft.com/en
 
 Open the Windows Terminal and select from the drop down arrow, the ABOUT tab, and take a screenshot of the version output
 
+![*Terminal output*](./images/terminal.png " Output of terminal about")
+
 On MacOS, there is a terminal called [iterm2](https://iterm2.com/ "MacOS shell terminal").
 
 Open the `iterm2` Terminal and from the File > About section take a screenshot of the version output.
