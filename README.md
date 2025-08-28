@@ -7,4 +7,8 @@
 
 Born and raised in chicago grew up in the Grand Crossing Neirborhood.
 
+## IT Interest
+
+I am studing Cybersecurity and Information Technology
+
 
