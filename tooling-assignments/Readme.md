@@ -182,6 +182,8 @@ Using a package manager, install the latest version of [Packer](https://packer.i
 
 Take a screenshot of the output of the command: `packer --version`
 
+!["packer output version"](./images/packer.png "packer version")
+
 ### Oh-My-Git Tutorial
 
 Download the proper [Oh My Git! tutorial](https://ohmygit.org/ "webpage for oh my git") the program runs as a self contained executable on your system (Windows Mac or Linux).
