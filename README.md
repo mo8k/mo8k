@@ -1,6 +1,5 @@
 # Mohamed Kamate
 
-![Me ](
 ![image my my favorite thing](media/Screenshot%202025-08-27%20004621.png "Me")
 
 ## where are you from?
